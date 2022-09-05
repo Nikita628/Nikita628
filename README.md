@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Nikita
-- 👀 I’m interested in JavaScript and related frontend technologies, mainly React. For the backend I know and use C# and .Net Core stack.
+- 👋 Hi, I’m @Nikita, fullstack developer
+- 👀 I’m interested in JavaScript and related frontend technologies, mainly React. For the backend I know and use C# and .Net.
 - I'm learning general software engeneering approaches, extandable architecture, practical patterns and common practices for building web based apps.
 
 <!---
